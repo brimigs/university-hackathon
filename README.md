@@ -10,9 +10,9 @@ Welcome to the Solana University Hackathon! This is your opportunity to build in
 | ----------------------- | ------------------- | ------------------------------- |
 | **Registration Window** | 10/20/25 - 11/01/25 | Sign up your team (1-4 members) |
 | **Kickoff Event**       | 11/01/25            | Opening ceremony and Q&A        |
-| **Building Period**     | 11/01/25 - 11/30/25 | One month to build your project |
-| **Submission Deadline** | 11/30/25            | Submit your projects            |
-| **Winners Announced**   | 12/2/25             | Awards ceremony                 |
+| **Building Period**     | 11/01/25 - 11/21/25 | One month to build your project |
+| **Submission Deadline** | 11/21/25            | Submit your projects            |
+| **Winners Announced**   | 11/24/25            | Awards ceremony                 |
 
 ## Prerequisites - Get Started Now!
 
@@ -42,8 +42,8 @@ Submission Requirements:
 
 ## Prizes
 
-- **First Place** - $10,000 (maybe do locked SOL instead?)
-- **Second Place** - $5,000 (maybe do locked SOL instead?)
+- **First Place** - $10,000
+- **Second Place** - $5,000
 - **Third Place** - $2,000
 
 ## Continuing with Solana
@@ -53,3 +53,5 @@ We want to see you to continue to build on Solana and will have a part 2 for thi
 ## Advice
 
 **Build in public.** Open source your code, openly discuss your project on Twitter, reach out to other builders.
+
+Join the Solana University Telegram to stay connected: https://t.me/+HfTcPXRI-e1kYmIx
