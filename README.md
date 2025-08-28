@@ -8,9 +8,9 @@ Welcome to the Solana University Hackathon! This is your opportunity to build in
 
 | Phase                   | Date                | Description                     |
 | ----------------------- | ------------------- | ------------------------------- |
-| **Registration Window** | 10/20/25 - 11/01/25 | Sign up your team (1-4 members) |
-| **Kickoff Event**       | 11/01/25            | Opening ceremony and Q&A        |
-| **Building Period**     | 11/01/25 - 11/21/25 | One month to build your project |
+| **Registration Window** | 10/20/25 - 11/03/25 | Sign up your team (1-4 members) |
+| **Kickoff Event**       | 11/03/25            | Opening ceremony and Q&A        |
+| **Building Period**     | 11/03/25 - 11/21/25 | One month to build your project |
 | **Submission Deadline** | 11/21/25            | Submit your projects            |
 | **Winners Announced**   | 11/24/25            | Awards ceremony                 |
 
